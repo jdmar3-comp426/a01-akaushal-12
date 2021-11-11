@@ -46,7 +46,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
   }
 .pg3h1 {
-    color: #464646;
+    color: #2a6607;
     text-align: left; 
     font-family: 'Times New Roman', Times, serif;
   }
@@ -61,5 +61,5 @@ a:hover {
 .links > .indexh1 {
     color: #08312e;
     text-align: left;
-    font-family: cursive;
+    font-family: monospace;
   }
