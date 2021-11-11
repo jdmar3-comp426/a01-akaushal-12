@@ -59,5 +59,7 @@ a:hover {
       color: gold; 
   }
 .links > h1 {
-      font-family: cursive;
+    color: #08312e;
+    text-align: left;
+    font-family: cursive;
   }
