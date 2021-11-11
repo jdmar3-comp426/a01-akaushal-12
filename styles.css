@@ -58,7 +58,7 @@ p {
 a:hover {
       color: gold; 
   }
-.links > p {
+.links > .p {
     color: #08312e;
     text-align: left;
     font-family: monospace;
