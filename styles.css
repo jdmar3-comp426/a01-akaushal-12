@@ -1,0 +1,65 @@
+.indexbody {
+    background-color: #05c2fc;
+  }
+.h1body {
+    background-color: #14abdd;
+  }
+.h2body {
+    background-color: #21c2f8;
+  }
+.h3body {
+    background-color: #5cd2fa;
+  }
+.indextitle {
+    color: #0ead4b;
+    text-align: center; 
+  }
+.h1title {
+    color: #1e9e53;
+    text-align: center; 
+  }
+.h2title {
+    color: #0feb8f;
+    text-align: center; 
+  }
+.h3title {
+    color: #27d84e;
+    text-align: center; 
+  }
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+.indexh1 {
+    color: #616161;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.pg1h1 {
+    color: #7e7e7e;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.pg2h1 {
+    color: #AAAAAA;
+    text-align: left; 
+    font-family: 'Times New Roman', Times, serif;
+  }
+.pg3h1 {
+    color: #2a6607;
+    text-align: left; 
+    font-family: 'Times New Roman', Times, serif;
+  }
+#image {
+    border: 10px solid gold;
+    width: 800px; 
+    height: 400px; 
+  }
+a:hover {
+      color: gold; 
+  }
+.links p {
+    color: #08312e;
+    text-align: left;
+    font-family: monospace;
+  }
